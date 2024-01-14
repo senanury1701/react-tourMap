@@ -1,16 +1,12 @@
-@import './scss/reset','./scss/variables';
-
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
 
-body{
+@import './scss/reset','./scss/variables';
+body {
     background-color: $backgroundColor;
-    font-family: 'Amatic SC', cursive;
-
+    font-family: 'Amatic SC', sans-serif;
 }
 
-p{
+p {
     font-family: 'Hubballi', cursive;
-
 }

@@ -123,5 +123,21 @@ export const data = [
       image:
         "https://img.freepik.com/free-photo/beautiful-canyon-landscape_23-2150724949.jpg?t=st=1705263096~exp=1705266696~hmac=93ae5830e4e4c7feb15bd41e166acf6699bad396697ca5edc0406255af11d791&w=740",
     },
+    {
+      id: 17,
+      title: "Swiss Alps",
+      desc:
+        "The Swiss Alps offer stunning mountain landscapes, picturesque villages, and world-class skiing. It's a paradise for outdoor enthusiasts, providing breathtaking views and a serene environment.",
+      image:
+        "https://img.freepik.com/free-photo/beautiful-village-snow-covered-mountain_181624-4248.jpg?w=1380&t=st=1705265516~exp=1705266116~hmac=104b271fd5b2607f399c80eabfe0fee308f1e8fe8a7762c82b525b8c0816e7b5",
+    },
+    {
+      id: 18,
+      title: "Tokyo",
+      desc:
+        "Tokyo, the capital city of Japan, is a vibrant metropolis known for its modern skyscrapers, historic temples, and diverse cultural scene. It's a perfect blend of tradition and innovation.",
+      image:
+        "https://img.freepik.com/free-photo/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan_335224-213.jpg?w=1380&t=st=1705265550~exp=1705266150~hmac=9320f42bb587306a5cd95222ace9acf456025e4532c06c8f300459adafbbcc84",
+    },
 
   ];
