@@ -1,0 +1,48 @@
+@import '../../scss/variables';
+
+.cards{
+    background-color: $cardNavBgColor;
+    max-width: 500px;
+    color: white;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.7);
+    position: relative;
+    overflow: hidden;
+    &:hover .cards-desc{
+        display: block;
+        transform: translateY(0%);
+    }
+
+    .cards-title{
+        color: $backgroundColor;
+        font-size: 1rem;
+        padding: 1rem;
+    }
+
+    img{
+        max-width: 490px;
+        height: 350px;
+        margin-right: 0.5rem;
+        object-fit: cover;
+        filter: grayscale(0);
+        &:hover{
+            filter: grayscale(100);
+        }
+    }
+    .card-desc{
+        display: none;
+        color: white;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        font-size: 1.5rem;
+        background-color: rgba(0,0,0,0.5);
+        padding: 1rem;
+        transform: translateY(100%);
+        z-index: 1;
+        transition: transform 0.7s ease-in-out;
+    }
+
+}
