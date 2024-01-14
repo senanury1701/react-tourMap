@@ -13,7 +13,7 @@ export const data = [
       desc:
         "The island country, the Philippines, is one of the most beautiful countries where blue and green are together. Forget the potion of youth, traveling to the Philippines will rejuvenate you for at least 5 years.",
       image:
-        "https://img.freepik.com/free-photo/aerial-shot-small-green-island-middle-ocean_181624-2933.jpg?w=1060&t=st=1705262579~exp=1705263179~hmac=5f3cbbc9399e2572d14693c95516d7f7f21ce5ac1c35afb3b767e125984899e5",
+        "https://img.freepik.com/free-photo/beautiful-seaside-landscape_23-2150423939.jpg?t=st=1705264289~exp=1705267889~hmac=ab848b71e0a6bae2d55a7ed293390adbc8b888b9448b9bda2cf00dd6aca47908&w=826",
     },
     {
       id: 3,
@@ -58,7 +58,7 @@ export const data = [
       title: "India",
       desc:
         "If you are not a vacationer but a traveler, we can say that India is the place for you. India, one of the most colorful places in the world, has a crazy variety. The Taj Mahal, the story of which you have heard more or less, is one of its famous buildings.",
-      image: "https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg",
+      image: "https://img.freepik.com/free-photo/sunset-reflection-ancient-mausoleum-marble-tomb-generated-by-ai_188544-47041.jpg?t=st=1705259942~exp=1705263542~hmac=d8b83a64d43ab1f68f45bbf7ce13b4bb0db9e24b293521eeb32855d6b3be0d8b&w=826",
     },
     {
       id: 9,
@@ -66,7 +66,7 @@ export const data = [
       desc:
         "Northern lights, the 'Aurora Borealis', named after the Dawn Goddess Aurora, are the natural glows that emerge in the sky with the interaction of the earth's magnetic field and charged particles from the Sun. This image, which makes most of us feel like in a fairy tale land, deserves to be visited at least once in a lifetime.",
       image:
-        "https://images.unsplash.com/photo-1579033461380-adb47c3eb938?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bm9ydGhlcm4lMjBsaWdodHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "https://img.freepik.com/free-photo/beautiful-landscape-with-aurora-borealis_23-2150439604.jpg?t=st=1705264344~exp=1705267944~hmac=f58cdf04af15a104cf5bd3819c752a971abd1dac3355ee7c16b5b9539ac6addc&w=826",
     },
     {
       id: 10,
